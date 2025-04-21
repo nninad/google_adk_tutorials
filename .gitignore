@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# environment variables
+.env
+
+# lockfiles
+uv.lock
+
+# database files
+*.db
+
+# sample files
+multi_tool_agent/
+hello.py
+
+# python version
+.python-version
